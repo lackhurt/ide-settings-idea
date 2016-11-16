@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="d4d1ebe7-0035-4cc6-8a0f-a2aea324f8e3" name="56" url="http://192.168.100.56">
-        <fileTransfer host="192.168.100.56" port="22" rootFolder="/var/www/test/" accessType="SFTP" password="dfdadfc0dfc4df9bdf98df99" username="root">
+        <fileTransfer host="192.168.100.56" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/home/hadoop/TestSpark" accessType="SFTP" username="hadoop" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
