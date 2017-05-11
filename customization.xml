@@ -1,20 +1,14 @@
 <application>
   <component name="com.intellij.ide.ui.customization.CustomActionsSchema">
-    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="19">
+    <group seperator="true" action_type="1" position="21">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PublishGroup.SyncLocalVsRemote" is_action="true" action_type="1" position="20">
+    <group value="PublishGroup.Upload" is_action="true" action_type="1" position="22">
       <path value="root" />
       <path value="Main Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="BuildArtifact" is_action="true" action_type="1" position="21">
-      <path value="root" />
-      <path value="Main Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <action id="BuildArtifact" />
   </component>
 </application>
