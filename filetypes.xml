@@ -1,9 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="avdl" approved="true" type="Avro™ IDL" />
       <mapping ext="avpr" type="PLAIN_TEXT" />
-      <mapping ext="avdl" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
