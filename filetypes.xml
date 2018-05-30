@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="avsc" type="JSON" />
+      <mapping pattern=".gitignored" type="PLAIN_TEXT" />
+      <mapping ext="avpr" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
