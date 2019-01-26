@@ -1,4 +1,6 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="CallHierarchy" />
+  <action id="CallHierarchy.BaseOnThisType" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="meta k" />
     <keyboard-shortcut first-keystroke="ctrl meta s" />
@@ -6,6 +8,10 @@
   <action id="ChooseRunConfiguration" />
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl meta p" />
+  </action>
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+    <keyboard-shortcut first-keystroke="ctrl meta h" />
   </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
